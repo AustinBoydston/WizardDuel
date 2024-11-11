@@ -1,3 +1,6 @@
+# Wizard Duel Game
+# Author: Austin Boydston
+
 #The player
 class wizard:
     health = 100
