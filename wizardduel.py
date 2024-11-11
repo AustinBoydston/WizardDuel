@@ -1,6 +1,6 @@
 # Wizard Duel Game
 # Author: Austin Boydston
-
+#Description: Two wizards fighting
 #The player
 class wizard:
     health = 100
